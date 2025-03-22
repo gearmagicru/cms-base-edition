@@ -19,7 +19,7 @@
   имеет набор компонентов для управления любым содержимым;
 * GM CMS — это **бесплатное программное обеспечение с открытым исходным кодом**, распространяемое по лицензии GNU General Public License версии 2 или более поздней.
 
-## Состав редакции «Старт»
+## Состав редакции «Базовая»
 <img src="https://raw.githubusercontent.com/gearmagicru/gm-be-reference/refs/heads/main/assets/images/icon_small.svg"> Модуль **"Справочники"** ([gm-be-references](https://github.com/gearmagicru/gm-be-reference))
 
 _расширения модуля:_
